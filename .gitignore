@@ -1,3 +1,16 @@
+# Folders
+BinaryVectors
+files
+FlyHashedVectors
+FlyMatrix
+GaussHashedVectors
+GaussMatrix
+mnist
+pmnistFiles
+RandomVectors
+Reports
+WTAVectors
+
 # Prerequisites
 *.d
 
